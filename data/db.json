@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "title": "become an eldern lord",
+      "isFav": true
+    },
+    {
+      "id": 3,
+      "title": "eat some pinapples",
+      "isFav": false
+    },
+    {
+      "title": "Hello world",
+      "id": 5217,
+      "isFav": true
+    }
+  ]
+}
